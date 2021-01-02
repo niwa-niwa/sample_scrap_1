@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>https://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2021</copyright>
+ <lastBuildDate>Sat, 02 Jan 2021 23:22:00 +0900</lastBuildDate>
+ <image>
+  <url>https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>https://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>第165回　Apple Fitness+，Playco，Ruffle ── いま，見ておきたいウェブサイト</title>
+  <link>https://gihyo.jp/design/serial/01/website-pickup/0165</link>
+  <description>激動とも言える2020年もいよいよ終わりということで，来年に向けた計画を立てている今日このごろ，皆様いかがお過ごしでしょうか。今回も個人的に感じた，素晴らしいウェブサイトの特徴をいくつかお話したいと思います。</description>
+  <pubDate>Fri, 25 Dec 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/serial/01/website-pickup">いま，見ておきたいウェブサイト</category>
+  <guid>https://gihyo.jp/design/serial/01/website-pickup/0165</guid> 
+  <author>Lançamento</author>
+ </item>
+ <item>
+  <title>2020年12月24日　オープンソースとビジネスのはざまで ―CentOS開発リーダー，ユーザに理解を求める ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202012/24</link>
+  <description>12月8日にRed HatおよびCentOSプロジェクトが発表した事実上の&quot;CentOSプロジェクト終了宣言&quot;は，Linux/オープンソース関係者に大きな衝撃をもたらした。</description>
+  <pubDate>Thu, 24 Dec 2020 15:39:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202012/24</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>2020年12月第4週　2020年のAndroidを振り返る ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202012/24</link>
+  <description>2020年最後のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 24 Dec 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202012/24</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2020年12月第4週号 1位は，2020年版のデザインツール投票の結果発表，気になるネタは，TwitterのRT仕様，元に戻した理由は「“思慮深い拡散”につながらなかった」から ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202012/24</link>
+  <description>ットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2020年12月14日～12月20日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 24 Dec 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202012/24</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>第647回　Ubuntu CoreなRaspberry PiをUbuntuサーバーとして使う ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0647</link>
+  <description>小型・ファンレス・低消費電力・メンテナンスフリーなサーバーは人類の見果てぬ夢です。今回はRaspberry PiとUbuntu Coreを使ってその夢を追い求めてみます。</description>
+  <pubDate>Wed, 23 Dec 2020 09:42:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0647</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>第4回　エンジニアを採用し，活躍してもらうには？ ── マネジメントの現場 ――良いチームを作るために必要なこと</title>
+  <link>https://gihyo.jp/lifestyle/serial/01/management_site/0004</link>
+  <description>マネージャーとしてチームや組織の成果を向上させるためには，育成だけではなく採用活動に携わることも重要になってきます。</description>
+  <pubDate>Wed, 23 Dec 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/serial/01/management_site">マネジメントの現場 ――良いチームを作るために必要なこと</category>
+  <guid>https://gihyo.jp/lifestyle/serial/01/management_site/0004</guid> 
+  <author>是澤太志</author>
+ </item>
+ <item>
+  <title>2020年12月22日　2020年最後の更新です ── 帰ってきた『技評ねこ部通信』</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202012/1222</link>
+  <description>今年も残すところあとわずか・・・ですね。</description>
+  <pubDate>Tue, 22 Dec 2020 15:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/monthly-cat">帰ってきた『技評ねこ部通信』</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/monthly-cat/202012/1222</guid> 
+  <author></author>
+ </item>
+ <item>
+  <title>第21回　初期リリースにおける理想像とのずれをどうするか ── 縁の下のUIデザイン―少しの工夫で大きな改善！</title>
+  <link>https://gihyo.jp/design/serial/01/ui-design-unsung/0021</link>
+  <description>サービス開発が一通り終わったあとの理想の状態をデザイナーがプロトタイピングし完成イメージを共有することは重要です。チームの士気も上がり，開発もドライブしやすくなると考えています。</description>
+  <pubDate>Tue, 22 Dec 2020 09:15:40 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/serial/01/ui-design-unsung">縁の下のUIデザイン―少しの工夫で大きな改善！</category>
+  <guid>https://gihyo.jp/design/serial/01/ui-design-unsung/0021</guid> 
+  <author>池田拓司</author>
+ </item>
+ <item>
+  <title>第26回　intrusion of inclusive terminology ── 続・玩式草子 ―戯れせんとや生まれけん―</title>
+  <link>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0026</link>
+  <description>激動の2020年も残り2週間を切りました。COVID-19の世界的な大流行は従来の生活を大きく変化させ，新しい生活様式の模索があらゆるところで続いています。</description>
+  <pubDate>Tue, 22 Dec 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2">続・玩式草子 ―戯れせんとや生まれけん―</category>
+  <guid>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0026</guid> 
+  <author>こじまみつひろ</author>
+ </item>
+ <item>
+  <title>第137回　MySQLTunerを使ってチューニングの足がかりを見つけてみる ── MySQL道普請便り</title>
+  <link>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0137</link>
+  <description>皆さんはMySQLのパラメータや変数をどのように設定しているでしょうか？</description>
+  <pubDate>Tue, 22 Dec 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0137</guid> 
+  <author>木村浩一郎</author>
+ </item>
+ <item>
+  <title>グレープシティ，JavaScriptライブラリ「ActiveReports JS V2J」を2020年12月16日にリリース ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2020/42042/2101</link>
+  <description>グレープシティ株式会社は，Webシステムに帳票機能を組み込むための帳票開発専用JavaScriptライブラリ「ActiveReportsJS V2J」を2020年12月16日にリリースした</description>
+  <pubDate>Mon, 21 Dec 2020 15:06:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2020/42042/2101</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第2回　Java／Pythonのこれまでとこれから ── 教えて！ 最新技術―テックコミュニティの現場から</title>
+  <link>https://gihyo.jp/dev/serial/01/tech_community_site/0002</link>
+  <description>テックコミュニティの運営側で，その技術分野を常に追いかけているエンジニアの方々にお話をうかがうインタビュー企画。第2回目のゲストとしてお迎えしたのは，テクニカルプリセールスとして活躍する石田真彩氏です。</description>
+  <pubDate>Mon, 21 Dec 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/tech_community_site">教えて！ 最新技術―テックコミュニティの現場から</category>
+  <guid>https://gihyo.jp/dev/serial/01/tech_community_site/0002</guid> 
+  <author>関満徳</author>
+ </item>
+ <item>
+  <title>2020年12月18日号　『Ubuntu on Windows』のプロトタイプ・DirectX12のためのmesaの調整 ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/202012/18</link>
+  <description>Bash on WindowsとしてWSL上のUbuntuが登場して約4年，『Ubuntu on Windows』と呼ばれる新しい挑戦が始まりました。</description>
+  <pubDate>Fri, 18 Dec 2020 09:40:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/202012/18</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>第64回　少しマニアックなPerlのテクニック―特殊変数，低レベルの標準関数を使いこなす（2） ── Perl Hackers Hub</title>
+  <link>https://gihyo.jp/dev/serial/01/perl-hackers-hub/006402</link>
+  <description>今回のテーマは「少しマニアックなPerlのテクニック」，今回は使ったことがない人が多いと思われる少しマニアックな道具を紹介します。</description>
+  <pubDate>Fri, 18 Dec 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/perl-hackers-hub">Perl Hackers Hub</category>
+  <guid>https://gihyo.jp/dev/serial/01/perl-hackers-hub/006402</guid> 
+  <author>佐藤健太</author>
+ </item>
+ <item>
+  <title>2020年12月17日　「openSUSE Leap 15.3 Alpha」が登場，CentOSユーザにもアピールへ ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/202012/17</link>
+  <description>openSUSEプロジェクトは12月16日，開発中の「openSUSE Leap 15.3」のアルファ版をリリースしたことを明らかにした。</description>
+  <pubDate>Thu, 17 Dec 2020 16:06:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/202012/17</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>003　すべてのユーザにケイオスエンジニアリングを ―AWS Fault Injection Simulatorが実現するマネージドな障害&quot;実験&quot; ── AWS re:Invent 2020ミニレポート</title>
+  <link>https://gihyo.jp/news/report/01/aws-reinvent20/0003</link>
+  <description>オランダ・アムステルダムから行われたヴァーナー・ボーガス博士によるキーノートでは，クラウドアーキテクチャの基本に立ち返った，かつ非常にイノベーティブなサービスが発表されました。</description>
+  <pubDate>Thu, 17 Dec 2020 11:21:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/report/01/aws-reinvent20">AWS re:Invent 2020ミニレポート</category>
+  <guid>https://gihyo.jp/news/report/01/aws-reinvent20/0003</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>第64回　少しマニアックなPerlのテクニック―特殊変数，低レベルの標準関数を使いこなす（1） ── Perl Hackers Hub</title>
+  <link>https://gihyo.jp/dev/serial/01/perl-hackers-hub/006401</link>
+  <description>本連載では第一線のPerlハッカーが回替わりで執筆していきます。今回のハッカーはkarupaneruraこと佐藤健太さんで，テーマは「少しマニアックなPerlのテクニック」です。</description>
+  <pubDate>Thu, 17 Dec 2020 09:15:40 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/perl-hackers-hub">Perl Hackers Hub</category>
+  <guid>https://gihyo.jp/dev/serial/01/perl-hackers-hub/006401</guid> 
+  <author>佐藤健太</author>
+ </item>
+ <item>
+  <title>2020年12月第3週　2020年最後の大物？ 4.01フレキシブルディスプレイ搭載「nubia WATCH」 ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/202012/17</link>
+  <description>2020年12月第3週のAndroid関連のニュースをお届けします。</description>
+  <pubDate>Thu, 17 Dec 2020 09:15:20 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/202012/17</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2020年12月第3週号 1位は，2021年に向けてのUIデザインのトレンド，気になるネタは，「Apple M1」搭載Macのモニター出力に複数の制約--EIZOが注意喚起 ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/202012/17</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2020年12月7日～12月13日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 17 Dec 2020 09:15:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/202012/17</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>第646回　Raspberry PiをIoTデバイスとして活用できるUbuntu Core ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0646</link>
+  <description>UbuntuはIoT向けの用途にも注力しています。その中核となるのが「Ubuntu Core」です。今回はRaspberry PiにUbuntu Coreをインストールして，その片鱗を味わってみましょう。</description>
+  <pubDate>Wed, 16 Dec 2020 09:40:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0646</guid> 
+  <author>柴田充也</author>
+ </item>
+</channel>
+</rss>
