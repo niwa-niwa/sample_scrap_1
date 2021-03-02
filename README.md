@@ -15,3 +15,10 @@ parsing a file with mecab
 ---
 ### branch chapter5-twitter
 using tweepy and stream listener
+
+---
+### branch chapter5.3
+Visualization with graph  
+using pandas, matplotlib
+
+---
