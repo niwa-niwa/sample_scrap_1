@@ -4,9 +4,13 @@
 
 ---
 
+## Chapter5-twitter
 
-### add Chapter5
-using WikiExtractor but not work
+execute command with environment-variable
+
+brew install forego
+
+forego run python twitter_rest_api_with_requests.py
 
 ---
 ### added branch chapter5-mecab
