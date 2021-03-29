@@ -5,22 +5,26 @@
 ---
 
 
-### add Chapter5
+### Branch Chapter5
 using WikiExtractor but not work
 
 ---
-### added branch chapter5-mecab
+### Branch chapter5-mecab
 parsing a file with mecab 
 
 ---
-### branch chapter5-twitter
+### Branch chapter5-twitter
 using tweepy and stream listener
 
 ---
-### branch chapter5.3
+### Branch chapter5.3
 Visualization with graph  
 using pandas, matplotlib
 
 ---
-### branch Chapter 5.5
+### Branch Chapter 5.5
 using MechanicalSoup  
+
+---
+### Branch Chapter 5.6
+using Selenium and Pyppeteer
